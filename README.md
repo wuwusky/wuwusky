@@ -1,6 +1,7 @@
 ### Hi there 👋
-![GithubStats](https://github-readme-stats.vercel.app/api?username=wuwusky&show_icons=true&theme=dark&count_private=true)
+![GithubStats](https://github-readme-stats-ruby-one.vercel.app/api?username=wuwusky&show_icons=true&theme=dark&count_private=true)
 
+https://github-readme-stats-ruby-one.vercel.app
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wuwusky&theme=dark&layout=compact)
 
 <!--
