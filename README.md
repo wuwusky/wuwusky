@@ -1,6 +1,6 @@
 ### Hi there 👋
 [![CLCK's GitHub stats](https://readme-stats.clckblog.space/api?username=wuwusky)](https://readme-stats.clckblog.space/)
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&bg_color=00000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=wuwusky&show_icons=true&bg_color=00000000)
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wuwusky&theme=dark&layout=compact)
 
