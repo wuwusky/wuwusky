@@ -1,7 +1,5 @@
 ### Hi there 👋
-![GithubStats](https://github-readme-stats-ruby-one.vercel.app/api?username=wuwusky&show_icons=true&theme=dark&count_private=true)
-
-https://github-readme-stats-ruby-one.vercel.app
+[![CLCK's GitHub stats](https://readme-stats.clckblog.space/api?username=wuwusky)](https://readme-stats.clckblog.space/)
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wuwusky&theme=dark&layout=compact)
 
 <!--
