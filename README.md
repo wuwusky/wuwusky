@@ -1,7 +1,4 @@
 ### Hi there 👋
-[![CLCK's GitHub stats](https://readme-stats.clckblog.space/api?username=wuwusky)](https://readme-stats.clckblog.space/)
-
-### Hi there 👋
 
 <p align="left">
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=wuwusky&show_icons=true&theme=transparent&hide_border=true" />
